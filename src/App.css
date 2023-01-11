@@ -1,0 +1,33 @@
+.App{
+  text-align: center;
+}
+.img-tag{
+  width: 480px;
+  cursor: pointer;  
+}
+
+.home-page{
+  color: whitesmoke;
+}
+.signup-btn{
+  border: none;
+  color: whitesmoke;
+  background-color: #0d6efd;
+}
+.col-lg-6{
+  margin-top: 10px;
+}
+.aside{
+  background-color: #1976d2;
+  width: fit-content;
+  height: 100vh;
+  display: inline-block;
+  position: fixed;
+  left: 0px;
+}
+.centerPage{
+  background-color: whitesmoke;
+  display: inline-block;
+  position: absolute;
+  overflow: scroll;
+}
